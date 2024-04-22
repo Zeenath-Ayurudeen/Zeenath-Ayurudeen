@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeenath Hafsa Ayurudeen</h1>
+<h1 align="center">Hi 👋, I'm Zeenath Ayurudeen</h1>
 <h3 align="center">I am passionate about software development, with a particular interest in databases.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenath-ayurudeen&label=Profile%20views&color=0e75b6&style=flat" alt="zeenath-ayurudeen" /> </p>
