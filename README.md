@@ -5,11 +5,11 @@
 
 ---
 
-- 🔭 I’m currently pursuing a higher diploma in **Computing and Software Engineering**
+ 🚀 I’m currently pursuing a higher diploma in **Computing and Software Engineering**
 
-- 🌱 I’m an undergraduate at **Cardiff Metropolitan University-UK**
+ 🎓 I’m an undergraduate at **Cardiff Metropolitan University-UK**
 
-- 📫 How to reach me **hafsa.ayurudeen@gmail.com**
+ 📩 How to reach me **hafsa.ayurudeen@gmail.com**
 
 ---
 
