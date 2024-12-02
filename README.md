@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeenath Ayurudeen</h1>
-<h3 align="center">I am passionate about web development and UI/UX design.</h3>
+<h3 align="center">I'm passionate about web and front-end development, creating sleek, user-friendly interfaces that look as good as they work. Always exploring the latest tech and trends to keep my skills fresh and my projects cutting-edge.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeenath-ayurudeen&label=Profile%20views&color=0e75b6&style=flat" alt="zeenath-ayurudeen" /> </p>
 
