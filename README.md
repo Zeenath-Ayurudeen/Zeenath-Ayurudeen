@@ -7,7 +7,7 @@
 
  🚀 **Undergraduate:** Pursuing a Higher Diploma in Computing and Software Engineering at Cardiff Metropolitan University-UK
 
- 💻 **Skill Development:** Currently learning and mastering React to build dynamic web applications
+ 💻 **Skill Development:** Currently learning and mastering **React** to build dynamic web applications
 
  📩 **Get in Touch:** **hafsa.ayurudeen@gmail.com**
 
