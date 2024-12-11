@@ -5,11 +5,11 @@
 
 ---
 
- 🚀 I’m currently pursuing a higher diploma in **Computing and Software Engineering**
+ 🚀 **Undergraduate:** Pursuing a Higher Diploma in Computing and Software Engineering at Cardiff Metropolitan University-UK
 
- 🎓 I’m an undergraduate at **Cardiff Metropolitan University-UK**
+ 💻 **Skill Development:** Currently learning and mastering React to build dynamic web applications
 
- 📩 How to reach me **hafsa.ayurudeen@gmail.com**
+ 📩 **Get in Touch:** **hafsa.ayurudeen@gmail.com**
 
 ---
 
